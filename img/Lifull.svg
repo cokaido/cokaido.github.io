@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="97px" viewBox="0 0 402 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Lifull</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Lifull" transform="translate(5.000000, 5.000000)" stroke="#9CDBD9" stroke-width="10">
+            <polyline id="Line" points="33 0 0 0 0 23.103996"></polyline>
+            <polyline id="Line-Copy-3" transform="translate(69.500000, 74.551998) scale(-1, -1) translate(-69.500000, -74.551998) " points="86 63 53 63 53 86.103996"></polyline>
+            <polyline id="Line-Copy" transform="translate(12.000000, 69.551998) scale(1, -1) translate(-12.000000, -69.551998) " points="24 53 0 53 0 86.103996"></polyline>
+            <polyline id="Line-Copy-4" transform="translate(141.300000, 43.551998) scale(1, -1) translate(-141.300000, -43.551998) " points="153.3 27 129.3 27 129.3 60.103996"></polyline>
+            <polyline id="Line-Copy-9" transform="translate(332.000000, 42.551998) scale(1, -1) translate(-332.000000, -42.551998) " points="344 26 320 26 320 59.103996"></polyline>
+            <polyline id="Line-Copy-10" transform="translate(379.700000, 42.551998) scale(1, -1) translate(-379.700000, -42.551998) " points="391.7 26 367.7 26 367.7 59.103996"></polyline>
+            <path d="M177.25,27 L177.25,60.103996" id="Line-Copy-5" transform="translate(177.050000, 43.551998) scale(1, -1) translate(-177.050000, -43.551998) "></path>
+            <path d="M209.25,27 L209.25,60.103996" id="Line-Copy-6" transform="translate(209.050000, 43.551998) scale(1, -1) translate(-209.050000, -43.551998) "></path>
+            <path d="M232,26.207992 L209.25,26.207992" id="Line-Copy-7" transform="translate(220.500000, 26.603996) scale(1, -1) translate(-220.500000, -26.603996) "></path>
+            <path d="M293,61.9089774 C293.436349,47.6633929 292.769976,38.5473093 291.000879,34.5607268 C288.031126,27.8685182 281.418269,25.9160007 275.125,25.9160007 C268.593379,25.9160007 262.201587,27.3519937 259.25,34.5607268 C257.627694,38.5229234 256.961028,47.6390071 257.25,61.9089777" id="Line-Copy-11" transform="translate(275.156981, 43.912489) scale(1, -1) translate(-275.156981, -43.912489) "></path>
+            <path d="M232,43.1839993 L209.25,43.1839993" id="Line-Copy-8" transform="translate(220.500000, 43.050000) scale(1, -1) translate(-220.500000, -43.050000) "></path>
+            <polyline id="Line-Copy-2" transform="translate(74.500000, 16.351998) scale(-1, 1) translate(-74.500000, -16.351998) " points="86.5 0.3 62.5 0.3 62.5 32.403996"></polyline>
+        </g>
+    </g>
+</svg>

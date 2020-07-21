@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="169px" viewBox="0 0 63 169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Senpai</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Senpai" transform="translate(0.000000, -21.000000)" stroke="#FFFFFF">
+            <path d="M25.1692803,113.391986 L1.17983578,138.175958 L26.4425861,138.175958 L50.3895609,113.391986 L25.1692803,113.391986 Z" id="Rectangle-2" transform="translate(25.783972, 125.783972) scale(-1, 1) rotate(180.000000) translate(-25.783972, -125.783972) "></path>
+            <rect id="Rectangle" x="25.587108" y="138.479094" width="25.4808362" height="24.7839721"></rect>
+            <polygon id="Triangle" transform="translate(42.508711, 36.933798) rotate(30.000000) translate(-42.508711, -36.933798) " points="51.966593 14.6341463 77.3519164 59.2334495 7.66550523 40.3007226"></polygon>
+            <polygon id="Triangle-Copy-4" transform="translate(36.236934, 94.076655) rotate(120.000000) translate(-36.236934, -94.076655) " points="45.5056583 72.4738676 70.3832753 115.679443 2.09059233 97.3383634"></polygon>
+            <polygon id="Triangle-Copy-2" transform="translate(51.916376, 126.480836) scale(-1, 1) rotate(-60.000000) translate(-51.916376, -126.480836) " points="58.442315 111.498258 75.9581882 141.463415 27.8745645 128.742989"></polygon>
+            <polygon id="Triangle-Copy-3" transform="translate(32.055749, 52.264808) scale(-1, 1) rotate(120.000000) translate(-32.055749, -52.264808) " points="36.5955326 41.8118467 48.7804878 62.71777 15.3310105 53.8430543"></polygon>
+            <polygon id="Triangle-Copy-5" transform="translate(36.236934, 179.790941) rotate(120.000000) translate(-36.236934, -179.790941) " points="40.7767172 169.337979 52.9616725 190.243902 19.5121951 181.369187"></polygon>
+        </g>
+    </g>
+</svg>

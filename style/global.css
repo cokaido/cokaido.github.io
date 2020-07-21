@@ -1,0 +1,149 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.h1{
+    font-family: 'Montserrat', bold;
+    color: #9CDBD9;
+    font-weight: 900;
+}
+
+span.social_media {
+    color: #9CDBD9;
+    font-size: 0.8em;
+}
+
+#top_menu {
+    color: #9CDBD9;
+    font-size: 1.2em;
+}
+
+/*
+#s1_landing{
+    background: url(../img/HeaderBottomShape.svg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*/
+
+#origin-spacer{
+    height: 100px;
+}
+
+@media (min-width: 320px) {
+    #origin-spacer{
+        height: 120px;
+    }
+}
+.h2 {
+    font-family: 'Montserrat', bold;
+    font-size: 1.5em;
+    font-weight: 900;
+}
+
+.h3 {
+    font-family: 'Montserrat', bold;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.h4 {
+    font-family: 'Montserrat', bold;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+#s1_spaces div.container{
+    background-color: #FEDD00;
+}
+
+#s2_what_we_do section.container {
+/*
+    background: url(../img/Section2TopShape.svg);
+    background-position: center top;
+    background-repeat: no-repeat;
+*/
+    background-color: white;
+    width: 100%;
+}
+
+#s2_what_we_do div.white-bg {
+    background-color: white;
+}
+
+span.what_we_do_icon{
+    color: #9CDBD9;
+    font-size: 10.0em
+}
+
+#s3_who_we_are section.container div.container p {
+    color: white;
+}
+
+#s3_who_we_are section.container div.container div.card-text p {
+    font-family: 'Montserrat';
+    font-size: 0.7em;
+    color: black;
+    margin: 5px;
+}
+
+#s3_who_we_are section.container div.container div.card-text a {
+    font-family: 'Montserrat', bold;
+    font-size: 1em;
+    color: black;
+    font-weight: 600;
+}
+
+#tangram-values aside.col p {
+    color: white;
+    font-size: 0.8em;
+}
+
+#tangram-values aside.col h3 {
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#s5_how_we_work section.container {
+    background-color: #9CDBD9;
+}
+
+#s5_how_we_work section.container div.container h1 {
+    color: white;
+}
+
+#s5_join_us section.container {
+    background: url(../img/Libelula.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.spacer {
+    height: 100px;
+}
+
+#s7_footer div.container div.row div.col-sm .h3 {
+    color: #9CDBD9;
+}
+
+#s7_footer div.container div.row div.col-sm .h4 {
+    font-family: 'Montserrat', bold;
+    font-size: 0.8em;
+    font-weight: 600;
+    color: white;
+}
+
+#s7_footer div.container div.row div.col-sm p.text, a {
+    font-family: 'Montserrat';
+    font-size: 0.7em;
+    color: #9CDBD9;
+}
+
+a.social_media_footer {
+    color: #9CDBD9;
+    font-size: 1em;
+}

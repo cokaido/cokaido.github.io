@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="476px" height="254px" viewBox="0 0 476 254" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>wale</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wale" transform="translate(0.000000, -7.000000)" stroke="#FFFFFF">
+            <rect id="Rectangle" transform="translate(130.000000, 198.000000) rotate(45.000000) translate(-130.000000, -198.000000) " x="86.5" y="154.5" width="87" height="87"></rect>
+            <path d="M387.764539,173.5 L301.202809,260.5 L387.350321,260.5 L474.788591,173.5 L387.764539,173.5 Z" id="Rectangle-2"></path>
+            <polygon id="Triangle" points="89 95 0 8 178 8"></polygon>
+            <polygon id="Triangle-Copy" transform="translate(99.000000, 136.500000) rotate(-90.000000) translate(-99.000000, -136.500000) " points="99 168 37 105 161 105"></polygon>
+            <polygon id="Triangle-Copy-2" points="191 199 129 136 253 136"></polygon>
+            <polygon id="Triangle-Copy-3" transform="translate(259.500000, 217.000000) rotate(-45.000000) translate(-259.500000, -217.000000) " points="259.5 278 138 156 381 156"></polygon>
+            <polygon id="Triangle-Copy-4" transform="translate(345.500000, 130.000000) rotate(135.000000) translate(-345.500000, -130.000000) " points="345.5 191 224 69 467 69"></polygon>
+        </g>
+    </g>
+</svg>

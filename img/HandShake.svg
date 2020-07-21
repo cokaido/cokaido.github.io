@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="125px" viewBox="0 0 132 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>HandShake</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M63.2560484,125 C98.1913992,125 126.512097,97.0177969 126.512097,62.5 C126.512097,27.9822031 98.1913992,3.97903932e-13 63.2560484,3.97903932e-13 C28.3206975,3.97903932e-13 0,27.9822031 0,62.5 C0,97.0177969 28.3206975,125 63.2560484,125 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="126.512097" height="125" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HandShake" transform="translate(3.000000, 0.000000)">
+            <path d="M90.9778226,26.9657258 L120.211694,56.703629" id="Line-14" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M81.9052419,35.5342742 L110.635081,64.2641129" id="Line-13" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <polyline id="Line-8" stroke="#000000" stroke-width="3" stroke-linecap="square" points="24.9495968 66.2802419 24.9495968 73.8407258 32.5543522 81.5419235"></polyline>
+            <rect id="Rectangle-4" stroke="#000000" stroke-width="3" transform="translate(42.560151, 82.691865) rotate(-45.000000) translate(-42.560151, -82.691865) " x="29.6952318" y="77.2419748" width="25.7298387" height="10.8997805" rx="5.44989024"></rect>
+            <rect id="Rectangle-4-Copy" stroke="#000000" stroke-width="3" transform="translate(49.346040, 89.164588) rotate(-45.000000) translate(-49.346040, -89.164588) " x="36.4811206" y="84.2187305" width="25.7298387" height="9.89171573" rx="4.94585786"></rect>
+            <rect id="Rectangle-4-Copy-2" stroke="#000000" stroke-width="3" transform="translate(56.046087, 95.360603) rotate(-45.000000) translate(-56.046087, -95.360603) " x="43.1811675" y="90.4147451" width="25.7298387" height="9.89171573" rx="4.94585786"></rect>
+            <rect id="Rectangle-4-Copy-3" stroke="#000000" stroke-width="3" transform="translate(62.598506, 101.408990) rotate(-45.000000) translate(-62.598506, -101.408990) " x="49.7335869" y="96.4631322" width="25.7298387" height="9.89171573" rx="4.94585786"></rect>
+            <path d="M60.7358871,112.65121 C63.2086424,114.331317 65.0567607,115.171371 66.2802419,115.171371 C67.2909419,115.171371 74.5544672,108.164108 82.0256273,100.931813 C88.1205463,95.0317586 94.6641862,88.9804194 95.5095317,86.4740769 C96.4298751,83.745375 92.8635483,79.2365091 85.4665685,71.7891477 C83.6767527,69.9871412 80.5535374,66.7802776 76.0969228,62.168557" id="Line-9" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M77.8729839,57.2076613 C74.218485,60.8657071 71.6164951,63.1826737 70.0670141,64.1585611 C67.8007004,65.5859209 65.3608438,65.6560988 64.0288439,65.9678435 C61.3308093,66.5992984 58.0490172,65.5273559 54.1834677,62.7520161 L111.345763,6.08413105" id="Line-10" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <polyline id="Line-11" stroke="#000000" stroke-width="3" stroke-linecap="square" points="70.6928275 44.7685948 67.3262404 41.3306452 59.2237903 41.3306452 56.9556452 39.3145161"></polyline>
+            <path d="M126.764113,51.1592742 L97.0262097,80.3931452" id="Line-12" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <polyline id="Line-6" stroke="#000000" stroke-width="3" stroke-linecap="square" points="0 45.1602535 24.1141324 66.9592311 54.666427 37.4654878 25.5120207 7.97174446"></polyline>
+            <path d="M15.8770161,58.2157258 L44.6068548,29.4858871" id="Line-7" stroke="#000000" stroke-width="3" stroke-linecap="square"></path>
+            <use id="Oval-6" stroke="#9DDBD9" mask="url(#mask-2)" stroke-width="6" stroke-dasharray="10,10,10" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

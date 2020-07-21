@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="167px" height="80px" viewBox="0 0 167 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Voxel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Voxel" transform="translate(-54.000000, -60.000000)" fill="#9CDBD9">
+            <path d="M54,62.4341491 C55.8615688,70.2143248 57.6765005,75.6516706 59.4447952,78.7461863 C61.2130899,81.8407019 65.050778,86.0882625 70.9578597,91.4888678 C74.8247378,82.8538802 77.9881739,76.8356287 80.4481678,73.4341131 C82.9081618,70.0325975 86.7587725,65.5545598 92,60 C87.5614215,60.678745 83.7108108,62.5829182 80.4481678,65.7125197 C77.1855249,68.8421211 73.4154899,74.2478446 69.1380631,81.9296902 C66.3697148,79.3523635 64.406098,76.8982985 63.2472125,74.5674952 C62.0883269,72.236692 60.8208545,68.1922433 59.4447952,62.4341491 L54,62.4341491 Z" id="Line-2"></path>
+            <text id="GROUP" font-family="ACaslonPro-Bold, Adobe Caslon Pro" font-size="36" font-weight="bold" letter-spacing="7.13999987">
+                <tspan x="54.6940003" y="139">GROU</tspan>
+                <tspan x="197.266" y="139">P</tspan>
+            </text>
+            <text id="OXEL" font-family="ACaslonPro-Bold, Adobe Caslon Pro" font-size="36" font-weight="bold" letter-spacing="8.03999996">
+                <tspan x="93.6360001" y="89">OXE</tspan>
+                <tspan x="197.496" y="89">L</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

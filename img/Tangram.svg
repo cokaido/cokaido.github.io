@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="467px" height="462px" viewBox="0 0 467 462" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Tangram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tangram" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <polygon id="Triangle" fill="#0072CE" points="0 0 232 236.171995 0 462"></polygon>
+            <polygon id="Triangle-Copy" fill="#FEDD00" points="467 1 231.868535 235 3 1"></polygon>
+            <polygon id="Triangle-Copy-2" fill="#A4D65E" transform="translate(292.000000, 234.000000) rotate(90.000000) translate(-292.000000, -234.000000) " points="407 180.865297 295.197833 294 177 174"></polygon>
+            <polygon id="Triangle-Copy-3" fill="#A4D65E" transform="translate(116.000000, 404.500000) rotate(180.000000) translate(-116.000000, -404.500000) " points="231 347 113.023166 462 1 347"></polygon>
+            <polygon id="Rectangle" fill="#9CDBDA" transform="translate(230.500000, 347.000000) rotate(-45.000000) translate(-230.500000, -347.000000) " points="152.696078 267 310 268.948133 310 427 151 427"></polygon>
+            <polygon id="Triangle-2" fill="#840A55" points="467 225 467 462 230 462"></polygon>
+            <polygon id="Rectangle-2" fill="#85552B" points="352.033933 116.903709 466 3 466 225.814003 345 348"></polygon>
+        </g>
+    </g>
+</svg>
